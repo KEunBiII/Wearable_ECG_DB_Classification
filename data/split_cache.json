@@ -1,0 +1,89 @@
+{
+  "train": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN055_7138_20210914",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN055",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN055_7138_20210914.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN055_7138_20210914",
+      "num_beats": "64362",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN080_7149_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN080",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN080_7149_20210903.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN080_7149_20210903",
+      "num_beats": "74909",
+      "num_segments": "17"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN082_7149_20210909",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN082",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN082_7149_20210909.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN082_7149_20210909",
+      "num_beats": "81929",
+      "num_segments": "10"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN006_7116_20210814",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN006",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN006_7116_20210814.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN006_7116_20210814",
+      "num_beats": "50904",
+      "num_segments": "221"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN034_7128_20210929",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN034",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN034_7128_20210929.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN034_7128_20210929",
+      "num_beats": "10568",
+      "num_segments": "25"
+    }
+  ],
+  "val": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN035_7128_20210930",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN035",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN035_7128_20210930.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN035_7128_20210930",
+      "num_beats": "59482",
+      "num_segments": "21"
+    }
+  ],
+  "test": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN020_7121_20210910",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN020",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN020_7121_20210910.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN020_7121_20210910",
+      "num_beats": "25488",
+      "num_segments": "38"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN103_7150_20210907",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN103",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN103_7150_20210907.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN103_7150_20210907",
+      "num_beats": "78373",
+      "num_segments": "50"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN037_7129_20210823",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN037",
+      "record_path": "/home/young00/DeepECG/Dataset/hicardi/01.Holter(Local Clinic), 124 records)/DN037_7129_20210823.mat",
+      "cache_path": "hicardi_beat_cache-20260607T084333Z-3-001/hicardi_beat_cache/hicardi_beat_cache/01.Holter(Local Clinic), 124 records)/DN037_7129_20210823",
+      "num_beats": "74230",
+      "num_segments": "132"
+    }
+  ]
+}

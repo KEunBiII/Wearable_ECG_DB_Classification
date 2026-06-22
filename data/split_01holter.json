@@ -1,0 +1,1124 @@
+{
+  "train": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN028_7127_20210811",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN028",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN028_7127_20210811.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN028_7127_20210811",
+      "num_beats": "69150",
+      "num_segments": "42"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN092_7149_20211013",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN092",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN092_7149_20211013.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN092_7149_20211013",
+      "num_beats": "72576",
+      "num_segments": "28"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN006_7116_20210814",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN006",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN006_7116_20210814.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN006_7116_20210814",
+      "num_beats": "50904",
+      "num_segments": "221"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN064_7140_20210915",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN064",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN064_7140_20210915.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN064_7140_20210915",
+      "num_beats": "71326",
+      "num_segments": "2"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN026_7126_20210823",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN026",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN026_7126_20210823.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN026_7126_20210823",
+      "num_beats": "23180",
+      "num_segments": "1"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN072_7144_20210831",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN072",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN072_7144_20210831.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN072_7144_20210831",
+      "num_beats": "43930",
+      "num_segments": "9"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN005_7001_20211016",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN005",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN005_7001_20211016.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN005_7001_20211016",
+      "num_beats": "57126",
+      "num_segments": "43"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN019_7120_20211004",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN019",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN019_7120_20211004.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN019_7120_20211004",
+      "num_beats": "57798",
+      "num_segments": "38"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN121_7150_20211022",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN121",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN121_7150_20211022.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN121_7150_20211022",
+      "num_beats": "66279",
+      "num_segments": "219"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN081_7149_20210907",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN081",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN081_7149_20210907.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN081_7149_20210907",
+      "num_beats": "71921",
+      "num_segments": "3"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN101_7150_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN101",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN101_7150_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN101_7150_20210903",
+      "num_beats": "28065",
+      "num_segments": "4"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN021_7122_20210811",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN021",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN021_7122_20210811.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN021_7122_20210811",
+      "num_beats": "55423",
+      "num_segments": "23"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN091_7149_20211006",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN091",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN091_7149_20211006.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN091_7149_20211006",
+      "num_beats": "46649",
+      "num_segments": "234"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN116_7150_20211011",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN116",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN116_7150_20211011.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN116_7150_20211011",
+      "num_beats": "59236",
+      "num_segments": "109"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN034_7128_20210929",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN034",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN034_7128_20210929.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN034_7128_20210929",
+      "num_beats": "10568",
+      "num_segments": "25"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN022_7125_20210802",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN022",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN022_7125_20210802.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN022_7125_20210802",
+      "num_beats": "70974",
+      "num_segments": "17"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN004_7001_20211015",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN004",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN004_7001_20211015.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN004_7001_20211015",
+      "num_beats": "53118",
+      "num_segments": "125"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN077_7149_20210830",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN077",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN077_7149_20210830.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN077_7149_20210830",
+      "num_beats": "69211",
+      "num_segments": "86"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN001_7000_20210927",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN001",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN001_7000_20210927.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN001_7000_20210927",
+      "num_beats": "62453",
+      "num_segments": "12"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN100_7150_20210901",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN100",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN100_7150_20210901.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN100_7150_20210901",
+      "num_beats": "44633",
+      "num_segments": "278"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN025_7125_20210915",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN025",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN025_7125_20210915.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN025_7125_20210915",
+      "num_beats": "26251",
+      "num_segments": "74"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN083_7149_20210913",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN083",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN083_7149_20210913.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN083_7149_20210913",
+      "num_beats": "74369",
+      "num_segments": "66"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN060_7140_20210819",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN060",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN060_7140_20210819.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN060_7140_20210819",
+      "num_beats": "51226",
+      "num_segments": "11"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN008_7117_20210803",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN008",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN008_7117_20210803.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN008_7117_20210803",
+      "num_beats": "74841",
+      "num_segments": "50"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN029_7127_20210914",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN029",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN029_7127_20210914.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN029_7127_20210914",
+      "num_beats": "80791",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN087_7149_20210928",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN087",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN087_7149_20210928.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN087_7149_20210928",
+      "num_beats": "53849",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN079_7149_20210901",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN079",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN079_7149_20210901.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN079_7149_20210901",
+      "num_beats": "48562",
+      "num_segments": "142"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN122_7256_20211021",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN122",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN122_7256_20211021.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN122_7256_20211021",
+      "num_beats": "9217",
+      "num_segments": "3"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN076_7149_20210826",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN076",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN076_7149_20210826.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN076_7149_20210826",
+      "num_beats": "54707",
+      "num_segments": "5"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN027_7126_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN027",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN027_7126_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN027_7126_20210903",
+      "num_beats": "30454",
+      "num_segments": "20"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN084_7149_20210915",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN084",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN084_7149_20210915.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN084_7149_20210915",
+      "num_beats": "63502",
+      "num_segments": "13"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN109_7150_20210917",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN109",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN109_7150_20210917.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN109_7150_20210917",
+      "num_beats": "67962",
+      "num_segments": "4"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN095_7150_20210818",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN095",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN095_7150_20210818.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN095_7150_20210818",
+      "num_beats": "59434",
+      "num_segments": "51"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN047_7133_20210819",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN047",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN047_7133_20210819.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN047_7133_20210819",
+      "num_beats": "49632",
+      "num_segments": "103"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN038_7129_20210830",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN038",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN038_7129_20210830.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN038_7129_20210830",
+      "num_beats": "19062",
+      "num_segments": "15"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN085_7149_20210916",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN085",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN085_7149_20210916.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN085_7149_20210916",
+      "num_beats": "43104",
+      "num_segments": "5"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN069_7141_20210911",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN069",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN069_7141_20210911.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN069_7141_20210911",
+      "num_beats": "63541",
+      "num_segments": "56"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN082_7149_20210909",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN082",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN082_7149_20210909.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN082_7149_20210909",
+      "num_beats": "81929",
+      "num_segments": "10"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN057_7139_20210826",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN057",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN057_7139_20210826.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN057_7139_20210826",
+      "num_beats": "69675",
+      "num_segments": "46"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN102_7150_20210906",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN102",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN102_7150_20210906.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN102_7150_20210906",
+      "num_beats": "72079",
+      "num_segments": "4"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN073_7149_20210817",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN073",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN073_7149_20210817.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN073_7149_20210817",
+      "num_beats": "37151",
+      "num_segments": "20"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN039_7129_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN039",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN039_7129_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN039_7129_20210903",
+      "num_beats": "61587",
+      "num_segments": "48"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN118_7150_20211015",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN118",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN118_7150_20211015.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN118_7150_20211015",
+      "num_beats": "37119",
+      "num_segments": "164"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN124_7972_20210907",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN124",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN124_7972_20210907.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN124_7972_20210907",
+      "num_beats": "63520",
+      "num_segments": "22"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN046_7133_20210816",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN046",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN046_7133_20210816.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN046_7133_20210816",
+      "num_beats": "63730",
+      "num_segments": "34"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN074_7149_20210820",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN074",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN074_7149_20210820.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN074_7149_20210820",
+      "num_beats": "28136",
+      "num_segments": "58"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN086_7149_20210927",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN086",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN086_7149_20210927.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN086_7149_20210927",
+      "num_beats": "81997",
+      "num_segments": "15"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN003_7000_20211001",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN003",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN003_7000_20211001.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN003_7000_20211001",
+      "num_beats": "31339",
+      "num_segments": "2"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN111_7150_20210927",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN111",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN111_7150_20210927.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN111_7150_20210927",
+      "num_beats": "83778",
+      "num_segments": "12"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN051_7135_20211015",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN051",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN051_7135_20211015.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN051_7135_20211015",
+      "num_beats": "103680",
+      "num_segments": "32"
+    }
+  ],
+  "val": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN018_7120_20210917",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN018",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN018_7120_20210917.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN018_7120_20210917",
+      "num_beats": "37592",
+      "num_segments": "73"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN071_7142_20210913",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN071",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN071_7142_20210913.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN071_7142_20210913",
+      "num_beats": "69993",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN040_7129_20210907",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN040",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN040_7129_20210907.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN040_7129_20210907",
+      "num_beats": "41293",
+      "num_segments": "50"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN043_7130_20210827",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN043",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN043_7130_20210827.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN043_7130_20210827",
+      "num_beats": "59748",
+      "num_segments": "1"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN056_7139_20210819",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN056",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN056_7139_20210819.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN056_7139_20210819",
+      "num_beats": "63566",
+      "num_segments": "18"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN106_7150_20210913",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN106",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN106_7150_20210913.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN106_7150_20210913",
+      "num_beats": "66980",
+      "num_segments": "5"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN030_7127_20211011",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN030",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN030_7127_20211011.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN030_7127_20211011",
+      "num_beats": "56148",
+      "num_segments": "19"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN096_7150_20210823",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN096",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN096_7150_20210823.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN096_7150_20210823",
+      "num_beats": "55678",
+      "num_segments": "106"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN052_7136_20210830",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN052",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN052_7136_20210830.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN052_7136_20210830",
+      "num_beats": "64443",
+      "num_segments": "70"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN119_7150_20211018",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN119",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN119_7150_20211018.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN119_7150_20211018",
+      "num_beats": "76360",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN053_7138_20210824",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN053",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN053_7138_20210824.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN053_7138_20210824",
+      "num_beats": "33220",
+      "num_segments": "439"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN011_7118_20210811",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN011",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN011_7118_20210811.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN011_7118_20210811",
+      "num_beats": "27758",
+      "num_segments": "62"
+    }
+  ],
+  "test": [
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN016_7119_20210915",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN016",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN016_7119_20210915.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN016_7119_20210915",
+      "num_beats": "62128",
+      "num_segments": "12"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN065_7141_20210812",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN065",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN065_7141_20210812.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN065_7141_20210812",
+      "num_beats": "63023",
+      "num_segments": "49"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN013_7119_20210806",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN013",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN013_7119_20210806.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN013_7119_20210806",
+      "num_beats": "58589",
+      "num_segments": "8"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN094_7149_20211015",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN094",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN094_7149_20211015.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN094_7149_20211015",
+      "num_beats": "67398",
+      "num_segments": "17"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN078_7149_20210831",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN078",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN078_7149_20210831.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN078_7149_20210831",
+      "num_beats": "74657",
+      "num_segments": "25"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN033_7128_20210925",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN033",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN033_7128_20210925.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN033_7128_20210925",
+      "num_beats": "70366",
+      "num_segments": "65"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN112_7150_20210928",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN112",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN112_7150_20210928.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN112_7150_20210928",
+      "num_beats": "51094",
+      "num_segments": "26"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN014_7119_20210820",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN014",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN014_7119_20210820.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN014_7119_20210820",
+      "num_beats": "57231",
+      "num_segments": "90"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN110_7150_20210923",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN110",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN110_7150_20210923.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN110_7150_20210923",
+      "num_beats": "22914",
+      "num_segments": "252"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN089_7149_20211001",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN089",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN089_7149_20211001.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN089_7149_20211001",
+      "num_beats": "66704",
+      "num_segments": "21"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN075_7149_20210824",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN075",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN075_7149_20210824.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN075_7149_20210824",
+      "num_beats": "56227",
+      "num_segments": "27"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN093_7149_20211014",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN093",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN093_7149_20211014.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN093_7149_20211014",
+      "num_beats": "67248",
+      "num_segments": "5"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN123_7258_20211021",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN123",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN123_7258_20211021.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN123_7258_20211021",
+      "num_beats": "1001",
+      "num_segments": "1"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN107_7150_20210914",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN107",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN107_7150_20210914.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN107_7150_20210914",
+      "num_beats": "62688",
+      "num_segments": "155"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN080_7149_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN080",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN080_7149_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN080_7149_20210903",
+      "num_beats": "74909",
+      "num_segments": "17"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN044_7130_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN044",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN044_7130_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN044_7130_20210903",
+      "num_beats": "59472",
+      "num_segments": "219"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN113_7150_20210930",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN113",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN113_7150_20210930.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN113_7150_20210930",
+      "num_beats": "58932",
+      "num_segments": "16"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN031_7128_20210820",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN031",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN031_7128_20210820.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN031_7128_20210820",
+      "num_beats": "49215",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN017_7120_20210909",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN017",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN017_7120_20210909.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN017_7120_20210909",
+      "num_beats": "32755",
+      "num_segments": "83"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN066_7141_20210821",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN066",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN066_7141_20210821.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN066_7141_20210821",
+      "num_beats": "69319",
+      "num_segments": "18"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN020_7121_20210910",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN020",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN020_7121_20210910.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN020_7121_20210910",
+      "num_beats": "25488",
+      "num_segments": "38"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN117_7150_20211013",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN117",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN117_7150_20211013.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN117_7150_20211013",
+      "num_beats": "69804",
+      "num_segments": "46"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN097_7150_20210825",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN097",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN097_7150_20210825.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN097_7150_20210825",
+      "num_beats": "65600",
+      "num_segments": "22"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN070_7142_20210819",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN070",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN070_7142_20210819.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN070_7142_20210819",
+      "num_beats": "74002",
+      "num_segments": "37"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN059_7139_20210913",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN059",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN059_7139_20210913.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN059_7139_20210913",
+      "num_beats": "60198",
+      "num_segments": "7"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN048_7134_20210811",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN048",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN048_7134_20210811.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN048_7134_20210811",
+      "num_beats": "59200",
+      "num_segments": "30"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN055_7138_20210914",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN055",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN055_7138_20210914.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN055_7138_20210914",
+      "num_beats": "64362",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN099_7150_20210830",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN099",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN099_7150_20210830.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN099_7150_20210830",
+      "num_beats": "54353",
+      "num_segments": "145"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN024_7125_20210903",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN024",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN024_7125_20210903.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN024_7125_20210903",
+      "num_beats": "69610",
+      "num_segments": "26"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN067_7141_20210827",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN067",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN067_7141_20210827.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN067_7141_20210827",
+      "num_beats": "67353",
+      "num_segments": "2"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN010_7118_20210806",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN010",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN010_7118_20210806.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN010_7118_20210806",
+      "num_beats": "57702",
+      "num_segments": "83"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN058_7139_20210911",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN058",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN058_7139_20210911.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN058_7139_20210911",
+      "num_beats": "72205",
+      "num_segments": "18"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN114_7150_20211005",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN114",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN114_7150_20211005.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN114_7150_20211005",
+      "num_beats": "48263",
+      "num_segments": "7"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN088_7149_20210929",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN088",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN088_7149_20210929.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN088_7149_20210929",
+      "num_beats": "35251",
+      "num_segments": "21"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN061_7140_20210824",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN061",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN061_7140_20210824.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN061_7140_20210824",
+      "num_beats": "2970",
+      "num_segments": "4"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN032_7128_20210824",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN032",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN032_7128_20210824.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN032_7128_20210824",
+      "num_beats": "68461",
+      "num_segments": "20"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN054_7138_20210911",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN054",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN054_7138_20210911.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN054_7138_20210911",
+      "num_beats": "69420",
+      "num_segments": "55"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN049_7134_20210817",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN049",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN049_7134_20210817.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN049_7134_20210817",
+      "num_beats": "60046",
+      "num_segments": "18"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN098_7150_20210827",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN098",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN098_7150_20210827.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN098_7150_20210827",
+      "num_beats": "62719",
+      "num_segments": "23"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN007_7116_20210924",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN007",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN007_7116_20210924.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN007_7116_20210924",
+      "num_beats": "65199",
+      "num_segments": "28"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN002_7000_20210928",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN002",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN002_7000_20210928.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN002_7000_20210928",
+      "num_beats": "57143",
+      "num_segments": "7"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN063_7140_20210911",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN063",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN063_7140_20210911.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN063_7140_20210911",
+      "num_beats": "76564",
+      "num_segments": "42"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN035_7128_20210930",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN035",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN035_7128_20210930.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN035_7128_20210930",
+      "num_beats": "59482",
+      "num_segments": "21"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN036_7128_20211018",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN036",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN036_7128_20211018.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN036_7128_20211018",
+      "num_beats": "14823",
+      "num_segments": "27"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN037_7129_20210823",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN037",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN037_7129_20210823.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN037_7129_20210823",
+      "num_beats": "74230",
+      "num_segments": "132"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN045_7130_20210910",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN045",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN045_7130_20210910.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN045_7130_20210910",
+      "num_beats": "56282",
+      "num_segments": "270"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN120_7150_20211019",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN120",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN120_7150_20211019.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN120_7150_20211019",
+      "num_beats": "54582",
+      "num_segments": "6"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN012_7118_20210820",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN012",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN012_7118_20210820.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN012_7118_20210820",
+      "num_beats": "51343",
+      "num_segments": "26"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN115_7150_20211007",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN115",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN115_7150_20211007.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN115_7150_20211007",
+      "num_beats": "50845",
+      "num_segments": "9"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN062_7140_20210902",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN062",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN062_7140_20210902.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN062_7140_20210902",
+      "num_beats": "52186",
+      "num_segments": "18"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN023_7125_20210812",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN023",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN023_7125_20210812.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN023_7125_20210812",
+      "num_beats": "55409",
+      "num_segments": "40"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN042_7130_20210823",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN042",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN042_7130_20210823.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN042_7130_20210823",
+      "num_beats": "66078",
+      "num_segments": "121"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN104_7150_20210909",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN104",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN104_7150_20210909.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN104_7150_20210909",
+      "num_beats": "55998",
+      "num_segments": "83"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN105_7150_20210910",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN105",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN105_7150_20210910.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN105_7150_20210910",
+      "num_beats": "44486",
+      "num_segments": "28"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN050_7134_20210918",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN050",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN050_7134_20210918.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN050_7134_20210918",
+      "num_beats": "72839",
+      "num_segments": "17"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN015_7119_20210831",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN015",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN015_7119_20210831.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN015_7119_20210831",
+      "num_beats": "51966",
+      "num_segments": "77"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN108_7150_20210916",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN108",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN108_7150_20210916.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN108_7150_20210916",
+      "num_beats": "70621",
+      "num_segments": "150"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN068_7141_20210901",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN068",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN068_7141_20210901.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN068_7141_20210901",
+      "num_beats": "70068",
+      "num_segments": "71"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN103_7150_20210907",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN103",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN103_7150_20210907.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN103_7150_20210907",
+      "num_beats": "78373",
+      "num_segments": "50"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN009_7117_20210807",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN009",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN009_7117_20210807.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN009_7117_20210807",
+      "num_beats": "35729",
+      "num_segments": "30"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN090_7149_20211005",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN090",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN090_7149_20211005.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN090_7149_20211005",
+      "num_beats": "40096",
+      "num_segments": "145"
+    },
+    {
+      "cohort": "01.Holter(Local Clinic), 124 records)",
+      "record_id": "DN041_7130_20210820",
+      "subject_id": "01.Holter(Local Clinic), 124 records)::DN041",
+      "record_path": "/tmp/hicardi_01only/01.Holter(Local Clinic), 124 records)/DN041_7130_20210820.mat",
+      "cache_path": "/home/isplab/workspace/ECG_Classification_HiCardi/hicardi_beat_cache_01holter/cohorts/01.Holter(Local Clinic), 124 records)/DN041_7130_20210820",
+      "num_beats": "71400",
+      "num_segments": "64"
+    }
+  ]
+}

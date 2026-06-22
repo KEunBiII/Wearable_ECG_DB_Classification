@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python plot_arch.py)",
+      "Bash(pip install *)"
+    ]
+  }
+}
